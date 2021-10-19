@@ -1,0 +1,128 @@
+body {
+    background-image: url(./2.jpg);
+    background-size: cover;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h2 {
+    color: white;
+}
+label {
+    color: white;
+}
+h1{
+    color: white;
+}
+
+.forma {
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 1000px;
+    margin-left: 220px;
+    border-radius: 10px;
+}
+.formUP{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px 10px 0px 0px;
+    padding: 1px;
+    
+}
+.bir {
+    display: flex;
+    
+}
+.bir h2 {
+    margin-left: 50px;
+    margin-right: 200px;
+}
+.bir input {
+    height: 30px;
+}
+.div1 {
+    margin-left: 270px;
+}
+
+.ikki {
+    display: flex;
+    
+}
+.ikki h2 {
+    margin-left: 50px;
+}
+.ikki input{
+    width: 60%;
+    height: 30px;
+    margin-top: 15px;
+    margin-left: 165px;
+}
+.ikki1 {
+    display: flex;
+}
+.ikki1 h2{
+    margin-left: 50px;
+}
+.ikki1 input{
+    width: 60%;
+    height: 30px;
+    margin-top: 15px;
+    margin-left: 185px;
+}
+.uch {
+    display: flex;
+}
+.uch h2 {
+    margin-left: 50px;
+}
+.uch input {
+    width: 60%;
+    margin-top: 15px;
+    margin-left: 202px;
+    height: 30px;
+}
+.tort {
+    display: flex;
+    
+}
+.tort h2 {
+    margin-left: 50px;
+    margin-right: 195px;
+}
+.div4{
+    margin-left:130px ;
+}
+.inpa {
+    height: 30px;
+    width: 60px;
+}
+.inp {
+    width: 400px;
+    height: 30px;
+}
+.chose {
+    margin-left: 50px;
+}
+button{
+    padding: 10px;
+    width: 200px;
+    border: 0px;
+    border-radius: 10px;
+    background-color: rgb(0, 217, 255);
+    color: white;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    transition: 0.3s;
+
+}
+input {
+    background-color: transparent;
+    border: 2px solid white;
+    transition: 0.3s;
+
+}
+input:hover {
+    border: 2px solid red;
+    transition: 0.3s;
+}
+button:hover {
+    background-color: red;
+    transition: 0.3s;
+}
